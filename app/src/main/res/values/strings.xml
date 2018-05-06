@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ManagingStateWithRxJava</string>
+    <string name="input_hint">请输入昵称</string>
+</resources>
